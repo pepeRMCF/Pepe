@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://pepermcf.github.io/pepe/</loc>
+    <changefreq>monthly</changefreq>
+    <image:image>
+      <image:loc>https://pepermcf.github.io/pepe/img/logo/pdoslogo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://pepermcf.github.io/pepe/img/background/bg4.jpg</image:loc>
+      <image:title>programador web, cientifico de datos, programador</image:title>
+      <image:caption>programador web, cientifico de datos, programador</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pepermcf.github.io/pepe/img/portfolio/1.jpg</image:loc>
+      <image:title>Diseño web</image:title>
+      <image:caption>Diseño web</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pepermcf.github.io/pepe/img/portfolio/2.jpg</image:loc>
+      <image:title>Diseño web</image:title>
+      <image:caption>Diseño web</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pepermcf.github.io/pepe/img/portfolio/3.jpg</image:loc>
+      <image:title>Diseño web</image:title>
+      <image:caption>Diseño web</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pepermcf.github.io/pepe/img/portfolio/8.jpg</image:loc>
+      <image:title>Diseño web</image:title>
+      <image:caption>Diseño web</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pepermcf.github.io/pepe/img/portfolio/4.jpg</image:loc>
+      <image:title>aplicación web</image:title>
+      <image:caption>aplicación web</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pepermcf.github.io/pepe/img/portfolio/5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://pepermcf.github.io/pepe/img/portfolio/6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://pepermcf.github.io/pepe/img/portfolio/7.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://pepermcf.github.io/pepe/index.html</loc>
+    <changefreq>monthly</changefreq>
+    <image:image>
+      <image:loc>https://pepermcf.github.io/pepe/img/logo/pdoslogo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://pepermcf.github.io/pepe/img/background/bg4.jpg</image:loc>
+      <image:title>programador web, cientifico de datos, programador</image:title>
+      <image:caption>programador web, cientifico de datos, programador</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pepermcf.github.io/pepe/img/portfolio/1.jpg</image:loc>
+      <image:title>Diseño web</image:title>
+      <image:caption>Diseño web</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pepermcf.github.io/pepe/img/portfolio/2.jpg</image:loc>
+      <image:title>Diseño web</image:title>
+      <image:caption>Diseño web</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pepermcf.github.io/pepe/img/portfolio/3.jpg</image:loc>
+      <image:title>Diseño web</image:title>
+      <image:caption>Diseño web</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pepermcf.github.io/pepe/img/portfolio/8.jpg</image:loc>
+      <image:title>Diseño web</image:title>
+      <image:caption>Diseño web</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pepermcf.github.io/pepe/img/portfolio/4.jpg</image:loc>
+      <image:title>aplicación web</image:title>
+      <image:caption>aplicación web</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pepermcf.github.io/pepe/img/portfolio/5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://pepermcf.github.io/pepe/img/portfolio/6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://pepermcf.github.io/pepe/img/portfolio/7.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
+<!--<guid value="9769765a-64c8-49fe-8efb-265ee87bad1a" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
